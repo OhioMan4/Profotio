@@ -2,14 +2,14 @@
   "name": "profotio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://chywiz.github.io/Profotio",
+  "homepage": "https://OhioMan4.github.io/Profotio",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@radix-ui/react-toast": "^1.2.15",
